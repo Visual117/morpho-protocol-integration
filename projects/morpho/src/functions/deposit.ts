@@ -13,7 +13,7 @@ import { ethers } from "ethers";
 import MorphoABI from "../abis/Morpho.json";
 
 // Environment variable for the deployed Morpho.sol contract address.
-const MORPHO_CONTRACT_ADDRESS = process.env.MORPHO_CONTRACT_ADDRESS || "0xYourDefaultMorphoAddress";
+const MORPHO_CONTRACT_ADDRESS = process.env.MORPHO_CONTRACT_ADDRESS || "0xBBBBBbbBBb9cC5e90e3b3Af64bdAF62C37EEFFCb";
 
 // ========================================================================
 // Type Definitions
